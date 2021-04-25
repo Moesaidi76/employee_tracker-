@@ -1,0 +1,34 @@
+{
+  "name": "mysql_employee_db",
+  "version": "1.0.0",
+  "description": "using mysql to create data and track employees.",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "package.json": "^2.0.1",
+    "seed": "^0.4.4",
+    "sequelizer": "^1.1.4",
+    "start": "^5.1.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moesaidi76/mysql-employee-tracker.git"
+  },
+  "author": "Mohamed Saidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moesaidi76/mysql-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Moesaidi76/mysql-employee-tracker#readme"
+}
