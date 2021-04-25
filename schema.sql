@@ -39,15 +39,4 @@ INSERT INTO role (title, salary, department_id) VALUES ("Director", 1170345.84, 
 INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES ("Kevin", "Adam", 1, 1), ("Johnathan", "London", 1, 2), ("Mike", "Angelo", 4, 1);
 SELECT*FROM employee;
 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
